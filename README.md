@@ -1,2 +1,2 @@
-# Organizador_pastas
-Gerenciar arquivos em pastas com Script 
+# Organização de Pastas
+Organize seus arquivos de forma automatizada com esse Script
